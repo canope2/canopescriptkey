@@ -14,7 +14,7 @@ local lEncode, lDecode, lDigest = a3, aw, Z;
 local service = 22344 -- CHANGE TO YOUR SERVICE ID
 local secret = "f4397a57-b41f-44e4-bed4-4e93e364f727" -- CHANGE TO YOUR APP SECRET
 local useNonce = true
-local mainScriptURL = "" -- YOUR PROTECTED HUB LINK
+local mainScriptURL = "https://raw.githubusercontent.com/canope2/script/refs/heads/main/script" -- YOUR PROTECTED HUB LINK
 
 -------------------------------------------------------------------------------
 --! CORE SERVICES & REQUEST HANDLING
